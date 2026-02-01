@@ -1,0 +1,5 @@
+database:
+  url: ${DATABASE_URL}
+  pool: 10
+cache:
+  ttl_seconds: 300
